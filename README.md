@@ -15,3 +15,26 @@ predict whether the future policyholder will incur a claim.
 
 ### Presentation Link:
 http://prezi.com/2smclr8un8vu/?utm_campaign=share&utm_medium=copy&rc=ex0share
+
+
+## Data Analysis
+
+### driver.R 
+This is the main file of this project. The algorithm in this file requires some external R library, which are also commented in the file.
+The algorithm gives us a choice to run either Support Vector Machine(SVM) or Logistic Regression(LR) and this can be done by commenting
+SVM  or LR source file code respectively.
+
+
+### DataProcessing.R
+This file is to process the generated data and split it into training and test data.
+ 
+### DataGen.R
+This file generates the data of specific number of observations and specific feature ratios. 
+
+### svm_linear.R
+The file runs the SVM classification on the training data and then test the classifier on the test data to check the accuracy of the
+classifier for the unknown data.
+
+### logit_reg.R
+The file runs the LR classification on the training data and then test the classifier on the test data to check the accuracy of the
+classifier for the unknown data.
