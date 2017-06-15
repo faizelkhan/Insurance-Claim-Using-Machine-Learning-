@@ -1,8 +1,16 @@
-# prob_ind - this will vary the parbability and help to create different data based on that  
-# 
+
+#Note: please install the packages below, if not already in your system library, before running the code BY REMOVING '#' infront of it. #
+#install.packages('caret')                                                                                                              #
+#install.packages('xlsx')                                                                                                               #  
+#---------------------------------------------------------------------------------------------------------------------------------------#
 
 library(caret)
 library(xlsx)
+
+# prob_ind - this will vary the parbability and help to create different data based on that  
+
+
+
 data_size = 1000
 
 #dlimit = 10500
