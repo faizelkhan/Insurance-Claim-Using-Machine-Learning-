@@ -1,8 +1,8 @@
 # Insurance Claim Using Machine Learning
 
-##Predicting property and casualty insurance claims: A Machine Learning Approach
+## Predicting property and casualty insurance claims: A Machine Learning Approach
 
-###Abstract:
+### Abstract:
 
 Property and Casualty insurance companies often encounter problems in predicting the likelihood of a policyholder causing a claim. 
 Some territories have few claim experiences, resulting in very sparse data. In addition, some data are highly dimensional in terms
@@ -13,5 +13,5 @@ of a policyholder causing a claim. Machine learning algorithms such as the logit
 predict whether the future policyholder will incur a claim.
 
 
-###Presentation Link:
+### Presentation Link:
 http://prezi.com/2smclr8un8vu/?utm_campaign=share&utm_medium=copy&rc=ex0share
