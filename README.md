@@ -20,16 +20,16 @@ http://prezi.com/2smclr8un8vu/?utm_campaign=share&utm_medium=copy&rc=ex0share
 ## Data Analysis
 
 ### driver.R 
-This is the main file of this project. The algorithm in this file requires some external R library, which are also commented in the file.
-The algorithm gives us a choice to run either Support Vector Machine(SVM) or Logistic Regression(LR) and this can be done by commenting
-SVM  or LR source file code respectively.
+This is the main file of this project. The algorithm in this file requires some external R libraries, which are already mentioned in the
+comments in these files. The algorithm also gives us a choice to run either _Support Vector Machine(SVM)_ or _Logistic Regression(LR)_ 
+and this can be done by commenting SVM  or LR source file code, respectively.
 
 
 ### DataProcessing.R
 This file is to process the generated data and split it into training and test data.
  
 ### DataGen.R
-This file generates the data of specific number of observations and specific feature ratios. 
+This file generates the data of specific number of observations and feature ratios. 
 
 ### svm_linear.R
 The file runs the SVM classification on the training data and then test the classifier on the test data to check the accuracy of the
