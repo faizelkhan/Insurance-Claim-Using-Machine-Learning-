@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------------------------------------------------#
-# This file is to test the clasifier on the data manually generated                                                           #
+# This file is to split the data manually generated into training and test data.                                          #
 #                                                                                                                         #
 # Classifier - SVM Linear Model  & Logistic Regression                                                                    #
 # Data : Generated for specific Size and Probability                                                                      # 
